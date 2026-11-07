@@ -10,3 +10,7 @@
 *.log
 .DS_Store
 Thumbs.db
+
+# 本机辅助脚本
+push_first.bat
+push_visible.cmd
