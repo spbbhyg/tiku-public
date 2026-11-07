@@ -1,11 +1,19 @@
 {
   "schema": 1,
-  "seq": 0,
-  "generated_at": "2026-11-08T00:00:00+08:00",
   "owner": "spbbhyg",
+  "seq": 1,
+  "updated_at": "2026-11-07T15:14:37Z",
   "counts": {
-    "questions": 0,
-    "images": 0
+    "questions": 9,
+    "images": 25
   },
-  "packs": []
+  "packs": [
+    {
+      "file": "packs/20261107-151437-1.jsonl",
+      "seq": 1,
+      "count": 9,
+      "created_at": "2026-11-07T15:14:37Z",
+      "sha256": "f41bdf0ddd1fd403"
+    }
+  ]
 }
